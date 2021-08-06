@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-IniGon
 - 👀 I’m interested in Video Game Development
-- 🌱 I’m currently learning Unity3d, HLSL and VFX's
+- 🌱 I’m currently learning Unity3d, HLSL and VFX's. Also Video Game Design. 
 
 <!---
 Daniel-IniGon/Daniel-IniGon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
